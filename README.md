@@ -1,4 +1,4 @@
-- <strong>My Name is Tolulope D Zubair and I'm a Front End Developer</strong>
+ <strong>My Name is Tolulope D Zubair and I'm a Front End Developer</strong>
 - 👋 Hi, I’m @TMax2003
 - 👀 I’m interested in Web Design,UI/UX Designs and Graphic Designs
 - 🌱 I’m currently learning Web Design 
